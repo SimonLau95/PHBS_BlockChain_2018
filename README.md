@@ -1,6 +1,6 @@
 # PHBS_BlockChain_2018
 # The Application of Blockchain in Field of Journalism
-## I Introduction
+## Ⅰ Introduction
  In recent years, journalism has encountered great development difficulties. Social media and content mobisage mediator have become the main entrance for people to obtain information. News faking, writing sensational headlines and other issues have seriously affected the information environment. The business model of mainstream media has been disintegrated by the emerging technologies and has encountered serious survival difficulties, even stigmatized as "false news".
  
  As a distributed accounting technology accessible to everyone, blockchain has the characteristics of de-centralization, de-intermediation, openness and transparency to a certain extent, as well as strong recording capability and tamper-proof function.  In blockchain, data is not stored in one or several central nodes, but exist in all the user nodes in the network–the so-called de-center.  Users can bypass the third party and make direct point-to-point transactions–the so-called de-intermediation. Every additional transaction or information will be backed up for everyone–the so-called openness and transparency.  All records are permanently saved and can be traced back infinitely. moreover, "modification" can only be carried out by adding new records rather than deleting the old ones .  Unless more than 51% of the nodes in the system can be controlled at the same time, modifications to the database on a single node are invalid―thus having strong recording capability and tamper-proof function.
@@ -45,6 +45,6 @@
  
  For the news media, the application of blockchain in advertisement placement can, on the one hand, allow the media to concentrate on content production and avoid the influence of media operation on content neutrality. At the same time, news media content producers are expected to bypass the content mobisage mediator and directly obtain advertisement released from advertisers without middlemen to earn the profits. On the other hand, transparent advertisement pricing mechanism may eliminate the premium of brand credibility of news media in advertisement pricing, which will also make the media more dependent on advertising methods such as soft articles.
  
-## III. Conclusion
+## Ⅲ Conclusion
  The media in blockchain are expected to play a great role in distributed production, fair distribution, flexible pricing, copyright protection and transparent advertising, but there are also certain limitations. For example, the production of serious news itself has a high threshold and is naturally characterized by elitism, users' attention is easily attracted by content with elements such as pornography and violence, and the standard of fact verification itself has a lot of ambiguity. In short, blockchain cannot solve all the difficulties in the development of the news industry, but it can provide great reference and technical support for the development and innovation of journalism.
  
